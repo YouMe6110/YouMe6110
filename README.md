@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=Waving&color=f399a0&height=200&section=header&text=YouMe6110&fontSize=70&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=Waving&color=0:eadd97,100:e79997&height=200&section=header&text=YouMe6110&fontSize=70&fontColor=ffffff"/>
 </p>
 
 <p align="center">
@@ -8,5 +8,5 @@
 
 ![YouMe6110's GitHub stats](https://github-readme-stats.vercel.app/api?username=YouMe6110&show_icons=true&theme=tokyonight)
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=Soft&reversal=true&color=f7bec3&height=150&section"/>
+  <img src="https://capsule-render.vercel.app/api?type=Soft&reversal=true&color=0:f0bfbd,100:f2e8bd&height=150&section"/>
 </p>
