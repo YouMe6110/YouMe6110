@@ -1,5 +1,4 @@
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:eadd97,100:e79997&height=200&section=header&text=Hi%20there!%20I'm%20a%20growing%20developer&fontSize=50&fontColor=ffffff&animation=twinkling"/></p>
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:eadd97,100:e79997&height=200&section=header&text=capsule%20render&fontSize=90" />
 
 <h2 align="center">📚 Technology Stack 📚</h2>
 
