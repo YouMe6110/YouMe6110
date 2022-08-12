@@ -1,6 +1,6 @@
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:eadd97,100:e79997&height=200&section=header&text=Hi there! I'm a growing developer&fontSize=50&fontColor=ffffff&animation=twinkling"/></p>
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=wavin&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=egg&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
 
 <h2 align="center">📚 Technology Stack 📚</h2>
 
